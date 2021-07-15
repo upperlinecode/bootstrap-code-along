@@ -4,7 +4,7 @@
 
 ## Steps
 
-1. Load in the Bootstrap framework using the CDN links found at https://getbootstrap.com/docs/4.0/getting-started/introduction/.
+1. Load in the Bootstrap framework using the CDN links found by navigating to https://getbootstrap.com/ and clicking on the "Get Started" link found in the hero.
 2. Code out the following:
    * A header
    * A subheader
